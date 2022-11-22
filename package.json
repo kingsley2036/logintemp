@@ -22,7 +22,7 @@
     "@njleonzhang/postcss-px-to-rem": "^1.0.1",
     "@vue/cli-plugin-babel": "^3.0.0",
     "@vue/cli-plugin-eslint": "^3.0.0",
-    "@vue/cli-service": "^3.0.0",
+    "@vue/cli-service": "^5.0.8",
     "html-webpack-inline-plugin": "^0.0.4",
     "lib-flexible-for-dashboard": "^1.0.2",
     "lint-staged": "^7.2.0",
